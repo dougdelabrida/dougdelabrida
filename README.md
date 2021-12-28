@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**dougdelabrida/dougdelabrida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As you probably have noticed, my name is Douglas. I've been working as a self-taught developer since 2011, both on the backend and frontend sides, being the last years mainly focused on the frontend. Even though I don't have a pet framework, I feel more productive using React + ExpressJS. I'm enthusiastic about functional programming using Javascript.
 
-Here are some ideas to get you started:
+##### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+    "from": "Brazil",
+    "livingIn": "Portugal",
+    "workingAt": "Genesis Block",
+    "pronouns": "he/him"
+}
+```
