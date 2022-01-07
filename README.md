@@ -9,6 +9,6 @@ douglas = %{
   pronouns: "he/him",
   from: "Brazil",
   livingIn: "Portugal",
-  workingAt: "Geness Block",
+  workingAt: "genesisblock.com",
 }
 ```
