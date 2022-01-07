@@ -4,11 +4,11 @@ As you probably have noticed, my name is Douglas. I've been working as a self-ta
 
 ##### About me
 
-```json
-{
-    "from": "Brazil",
-    "livingIn": "Portugal",
-    "workingAt": "Genesis Block",
-    "pronouns": "he/him"
+```elixir
+douglas = %{
+  pronouns: "he/him",
+  from: "Brazil",
+  livingIn: "Portugal",
+  workingAt: "Geness Block",
 }
 ```
