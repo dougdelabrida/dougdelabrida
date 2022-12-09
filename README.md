@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-As you probably have noticed, my name is Douglas. I've been working as a self-taught developer since 2011, both on the backend and frontend sides, being the last years mainly focused on the frontend. Even though I don't have a pet framework, I feel more productive using React + ExpressJS. I'm enthusiastic about functional programming using Javascript.
+Hi there, my name is Douglas. I am a self-taught developer who has been working in the industry since 2011. I have experience in both frontend and backend development, but recently, I have been focusing mainly on the frontend. While I do not have a preferred framework, I find that I am most productive when using React. I am particularly passionate about functional programming, so Elixir, ReScript are my favorite languages at the moment.
 
 ##### About me
 
